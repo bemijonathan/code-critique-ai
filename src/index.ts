@@ -1,4 +1,4 @@
-import { EsLint } from './linting';
+import { EsLinter } from './linting';
 // import { Docker } from './docker';
 // import { Testing } from './testing';
 // import { Logging } from './logging';
@@ -6,7 +6,7 @@ import { EsLint } from './linting';
 export class AutoReviewer {
     // private docker: Docker;
     // private testing: Testing;
-    private linting: EsLint;
+    private linting: EsLinter;
 
     constructor(args: Record<string, string>) {
         if (!args.path) {
@@ -14,7 +14,7 @@ export class AutoReviewer {
         }
         // this.docker = new Docker();
         // this.testing = new Testing();
-        this.linting = new EsLint(args.path);
+        this.linting = new EsLinter(args.path);
     }
 
     public async lint(filePath: string) {

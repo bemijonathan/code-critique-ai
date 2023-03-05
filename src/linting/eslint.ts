@@ -5,7 +5,7 @@ import { Language } from '../../types';
 
 
 
-export class EsLint {
+export class EsLinter {
     private language: Language;
 
     constructor(projectPath: string) {
@@ -90,6 +90,7 @@ export class EsLint {
     }
 
     public logFeedBack(results: ESLint.LintResult[]) {
+        console.log(chalk.red('Linting results:........'));
         results.forEach((result) => {
             const { filePath, errorCount, warningCount } = result;
             const hasErrors = errorCount > 0;
