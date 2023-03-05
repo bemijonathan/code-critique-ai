@@ -1,0 +1,29 @@
+Use clear and concise naming conventions for variables, functions, and classes.
+Ensure that the code is well-organized and follows a logical structure.
+Verify that the code fulfills the intended functionality and performs as expected.
+Write code that is easy to read, understand, and maintain.
+Use comments and documentation to improve code readability.
+Optimize code for performance by removing redundant or inefficient lines.
+Handle errors gracefully and avoid potential bugs or crashes.
+Follow industry best practices for data handling, encryption, and access control.
+Thoroughly test the code and address any known bugs or issues.
+Write scalable code that can handle a large number of users or requests.
+Ensure that the code complies with relevant regulations, standards, or guidelines.
+Use up-to-date and secure dependencies and avoid potential conflicts or vulnerabilities.
+Break code down into small, modular functions that can be tested in isolation.
+Write code that is decoupled from external dependencies to make it more testable.
+Avoid side effects that could cause unexpected behavior.
+Use a consistent style and adhere to naming conventions for constants and global variables.
+Write code that is designed to be easy to test and has a high degree of test coverage.
+Use descriptive names for variables, functions, and classes to improve code readability.
+Use tools like linters and code formatters to ensure code consistency and readability.
+Avoid hard-coding values that may change in the future and use variables instead.
+Ensure that the code is written in a way that is compatible with the current version of ECMAScript.
+Use modern JavaScript or TypeScript features to write more concise and readable code.
+Use interfaces and types to define the shape of objects and data structures.
+Use enums to represent a fixed set of values.
+Use the "readonly" keyword to prevent unintentional modifications to data.
+Use async/await syntax to write asynchronous code in a more readable way.
+Use destructuring syntax to extract properties from objects and arrays.
+Use arrow functions to write more concise and readable code.
+Use default parameter values to avoid boilerplate code.

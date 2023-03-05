@@ -1,0 +1,12 @@
+Code organization: Check if the code is well-organized, easy to read, and follows a logical structure.
+Functionality: Verify that the code fulfills the intended functionality and performs as expected.
+Code readability: Ensure that the code is easy to read, understand, and maintain. Check for clear and concise naming conventions, well-written comments, and documentation.
+Code efficiency: Check that the code is optimized for performance and that there are no redundant or inefficient lines of code.
+Error handling: Verify that the code handles errors gracefully and that there are no potential bugs or crashes.
+Security: Check that the code is secure and follows industry best practices for data handling, encryption, and access control.
+Testing: Verify that the code has been thoroughly tested and that there are no known bugs or issues.
+Scalability: Check that the code is scalable and can handle a large number of users or requests.
+Compliance: Ensure that the code complies with any relevant regulations, standards, or guidelines.
+Dependencies: Verify that the code uses up-to-date and secure dependencies, and that there are no potential conflicts or vulnerabilities.
+Naming conventions: Clear and consistent naming conventions can improve code readability and maintainability. 
+Testable code: Testable code is code that is designed to be easy to test and has a high degree of test coverage.
